@@ -1,0 +1,34 @@
+{
+  "name": "big-profit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "big-profit",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "core-js": "^3.33.3",
+    "gatsby": "^5.12.4",
+    "gatsby-omni-font-loader": "^2.0.2",
+    "gatsby-plugin-image": "^3.12.3",
+    "gatsby-plugin-manifest": "^5.12.3",
+    "gatsby-plugin-react-helmet": "^6.12.0",
+    "gatsby-plugin-sharp": "^5.12.3",
+    "gatsby-source-datocms": "^5.1.2",
+    "gatsby-source-filesystem": "^5.12.1",
+    "gatsby-transformer-json": "^5.12.0",
+    "gatsby-transformer-remark": "^6.12.3",
+    "gatsby-transformer-sharp": "^5.12.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-slick": "^0.29.0"
+  }
+}
